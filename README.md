@@ -29,7 +29,4 @@ menggunakan php
 jalankan di online compiler
 parameter bisa di ganti di code
 
-No 6
-menggunakan php dengan framework codeigniter
-jalankan xampp
-akses url menggunakan nama folder dengan database sesuai file .sql
+
